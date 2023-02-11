@@ -12,7 +12,7 @@ Sklearn
 TensorFlow
 
 # Dataset
-The dataset used for training and testing the model is a CSV file, which contains various attributes related to breast cancer diagnosis. The dataset is pre-processed to obtain relevant information for the model to make predictions.
+The dataset used for training and testing the model is a CSV file taken from "https://www.kaggle.com/datasets/merishnasuwal/breast-cancer-prediction-dataset" , which contains various attributes related to breast cancer diagnosis. The dataset is pre-processed to obtain relevant information for the model to make predictions.
 
 # Model
 The model is implemented using TensorFlow and is a feedforward neural network. It consists of multiple dense layers, with each layer having a certain number of neurons. The model is trained using the backpropagation algorithm, where the model's parameters are updated to minimize the loss function.
