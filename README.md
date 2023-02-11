@@ -2,11 +2,16 @@
 This repository contains code for the detection of breast cancer using an artificial neural network. The model is implemented in Python and makes use of the following libraries:
 
 Pandas
+
 Numpy
+
 Matplotlib
+
 Sklearn
+
 TensorFlow
-Dataset
+
+# Dataset
 The dataset used for training and testing the model is a CSV file, which contains various attributes related to breast cancer diagnosis. The dataset is pre-processed to obtain relevant information for the model to make predictions.
 
 # Model
